@@ -4,12 +4,17 @@
 # Sentiment Analysis and Classification Of Pakistan's General Elections 2018
 
 This script scrapes <b>100+</b> tweets regarding Pakistan's Election 2018 from [Twitter](https://twitter.com/search?q=%23PakistanElections2018&src=typd) and performs Sentiment Analysis.
+
 <hr />
 <br />
+
 # Youtube Project Working Demonstration
+
 [Youtube Link](https://www.youtube.com/watch?v=gK5v5EBT8V4)
+
 <hr />
 <br />
+
 Following are the steps we took to take this project to reality:
   - Generated dataset by scraping Twitter data using Selenium WebDriver
   - Preprocessed the tweets by cleansing them and removing extraneous information for our sentiment analysis model 
